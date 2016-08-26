@@ -1,16 +1,10 @@
 # [zip](./README.md)
 
 ```js
-import { isNil } from 'ramda'
-
-const zip = (left, right) => {
-  const [l, ...ls] = left
-  const [r, ...rs] = right
-
-  if (isNil(l) || isNil(r)) { return [] }
-
-  return [[l, r], ...zip(ls, rs)]
-}
+const zip = ([l, ...ls], [r, ...rs]) =>
+  (l === undefined || r === undefined)
+    ? []
+    : [[l, r], ...zip(ls, rs)]
 
 const a = [1, 2, 3, 4, 5]
 const b = [6, 7, 8, 9]
