@@ -27,7 +27,7 @@ const h = g(3)            // encloses 1, 2, 3, returns addFor expecting last num
 h(4)                      // returns 10 (1 + 2 + 3 + 4)
 ```
 
-Now, how can we implement `__` as a placeholder?
+Now, how can we implement `_` as a placeholder?
 
 Well, the first thing to consider is that it is not used when we curry the function, but when we *call* the curried function. So it needs to be something that our curried function takes into account. And when it gets a placeholder instead of a value parameter, it has to know to return a function that takes that parameter and inserts it in the right position when it applies the curried function.
 
