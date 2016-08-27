@@ -1,6 +1,6 @@
 # `find`
 
-[home](../README.md) &gt; `find`
+[home](../README.md) &gt; [`find`](http://ramdajs.com/docs/#find)
 
 
 

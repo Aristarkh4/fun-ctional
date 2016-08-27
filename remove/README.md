@@ -1,6 +1,6 @@
 # `remove`
 
-[home](../README.md) &gt; `remove`
+[home](../README.md) &gt; [`remove`](http://ramdajs.com/docs/#remove)
 
 
 

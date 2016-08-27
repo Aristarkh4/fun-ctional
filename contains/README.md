@@ -1,6 +1,6 @@
 # `contains`
 
-[home](../README.md) &gt; `contains`
+[home](../README.md) &gt; [`contains`](http://ramdajs.com/docs/#contains)
 
 
 

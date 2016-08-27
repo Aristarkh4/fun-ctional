@@ -1,6 +1,6 @@
 # `curry`
 
-[home](../README.md) &gt; `curry`
+[home](../README.md) &gt; [`curry`](http://ramdajs.com/docs/#curry)
 
 
 

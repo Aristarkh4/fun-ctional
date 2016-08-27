@@ -1,6 +1,6 @@
 # `append`
 
-[home](../README.md) &gt; `append`
+[home](../README.md) &gt; [`append`](http://ramdajs.com/docs/#append)
 
 Returns a new list containing the contents of the given list, followed by the given element.
 

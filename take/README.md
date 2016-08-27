@@ -1,6 +1,6 @@
 # `take`
 
-[home](../README.md) &gt; `take`
+[home](../README.md) &gt; [`take`](http://ramdajs.com/docs/#take)
 
 
 

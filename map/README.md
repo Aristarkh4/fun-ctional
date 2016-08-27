@@ -1,6 +1,6 @@
 # `map`
 
-[home](../README.md) &gt; `map`
+[home](../README.md) &gt; [`map`](http://ramdajs.com/docs/#map)
 
 
 

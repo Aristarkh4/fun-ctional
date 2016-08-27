@@ -1,6 +1,6 @@
 # `pick`
 
-[home](../README.md) &gt; `pick`
+[home](../README.md) &gt; [`pick`](http://ramdajs.com/docs/#pick)
 
 
 

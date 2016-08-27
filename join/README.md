@@ -1,6 +1,6 @@
 # `join`
 
-[home](../README.md) &gt; `join`
+[home](../README.md) &gt; [`join`](http://ramdajs.com/docs/#join)
 
 
 

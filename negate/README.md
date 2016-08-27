@@ -1,6 +1,6 @@
 # `negate`
 
-[home](../README.md) &gt; `negate`
+[home](../README.md) &gt; [`negate`](http://ramdajs.com/docs/#negate)
 
 Ramda's [`negate`](http://ramdajs.com/docs/#negate) does exactly what you'd expect it to do:
 

@@ -1,6 +1,6 @@
 # `scan`
 
-[home](../README.md) &gt; `scan`
+[home](../README.md) &gt; [`scan`](http://ramdajs.com/docs/#scan)
 
 
 

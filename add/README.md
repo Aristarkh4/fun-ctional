@@ -1,8 +1,8 @@
 # `add`
 
-[home](../README.md) &gt; `add`
+[home](../README.md) &gt; [`add`](http://ramdajs.com/docs/#add)
 
-Ramda's [`add`](http://ramdajs.com/docs/#add) adds two values together and returns the sum.
+Adds two values together and returns the sum.
 
 Why only two values? Why not however many are supplied as arguments? Because Ramda's `add` function is *curried*. That is, you can call it with a single argument and get back a function that takes a single argument and adds it to the first.
 

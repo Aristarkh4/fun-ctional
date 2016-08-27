@@ -1,6 +1,6 @@
 # `partial`
 
-[home](../README.md) &gt; `partial`
+[home](../README.md) &gt; [`partial`](http://ramdajs.com/docs/#partial)
 
 
 

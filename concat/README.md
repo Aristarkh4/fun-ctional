@@ -1,6 +1,6 @@
 # `concat`
 
-[home](../README.md) &gt; `concat`
+[home](../README.md) &gt; [`concat`](http://ramdajs.com/docs/#concat)
 
 
 

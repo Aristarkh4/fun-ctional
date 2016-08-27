@@ -1,6 +1,6 @@
 # `omit`
 
-[home](../README.md) &gt; `omit`
+[home](../README.md) &gt; [`omit`](http://ramdajs.com/docs/#omit)
 
 
 

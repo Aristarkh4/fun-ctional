@@ -1,6 +1,6 @@
 # `zip`
 
-[home](../README.md) &gt; `zip`
+[home](../README.md) &gt; [`zip`](http://ramdajs.com/docs/#zip)
 
 
 
