@@ -29,6 +29,7 @@ On another note, these may not be the most efficient ways to implement these fun
 | [memoize](./memoize/README.md)   | [examples](./memoize/solutions.md)  |
 | [merge](./merge/README.md)       | [examples](./merge/solutions.md)    |
 | [omit](./omit/README.md)         | [examples](./omit/solutions.md)     |
+| [negate](./negate/README.md)     | [examples](./negate/solutions.md)   |
 | [partial](./partial/README.md)   | [examples](./partial/solutions.md)  |
 | [pick](./pick/README.md)         | [examples](./pick/solutions.md)     |
 | [pluck](./pluck/README.md)       | [examples](./pluck/solutions.md)    |
