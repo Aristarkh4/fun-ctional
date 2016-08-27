@@ -2,7 +2,7 @@
 
 [home](../README.md) &gt; `prepend`
 
-Returns a new list containing the contents of the given list, followed by the given element.
+Returns a new list containing the contents of the given list, preceded by the given element.
 
 ```js
 import { prepend } from 'ramda'
