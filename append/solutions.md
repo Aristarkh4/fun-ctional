@@ -2,6 +2,8 @@
 
 [home](../README.md) &gt; [`append`](./README.md) &gt; solutions
 
+An easy solution. Remember that the list (collection) is always the last parameter.
+
 ```js
 const append = (v, a) => [...a, v]
 

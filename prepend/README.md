@@ -1,13 +1,13 @@
-# `append`
+# `prepend`
 
-[home](../README.md) &gt; `append`
+[home](../README.md) &gt; `prepend`
 
 Returns a new list containing the contents of the given list, followed by the given element.
 
 ```js
-import { append } from 'ramda'
+import { prepend } from 'ramda'
 
-append('z', ['x', 'y'])   // returns ['x', 'y', 'z']
+prepend('x', ['y', 'z'])   // returns ['x', 'y', 'z']
 ```
 
 [Solutions](./solutions.md)

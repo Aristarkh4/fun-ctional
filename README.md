@@ -33,6 +33,7 @@ On another note, these may not be the most efficient ways to implement these fun
 | [partial](./partial/README.md)   | [solutions](./partial/solutions.md)  |
 | [pick](./pick/README.md)         | [solutions](./pick/solutions.md)     |
 | [pluck](./pluck/README.md)       | [solutions](./pluck/solutions.md)    |
+| [prepend](./prepend/README.md)   | [solutions](./prepend/solutions.md)  |
 | [range](./range/README.md)       | [solutions](./range/solutions.md)    |
 | [reduce](./reduce/README.md)     | [solutions](./reduce/solutions.md)   |
 | [reject](./reject/README.md)     | [solutions](./reject/solutions.md)   |
