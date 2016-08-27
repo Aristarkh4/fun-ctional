@@ -1,4 +1,6 @@
-# [filter](./README.md)
+# `filter`
+
+[home](../README.md) &gt; [`filter`](./README.md) &gt; solutions
 
 ```js
 import { reduce } from 'ramda'

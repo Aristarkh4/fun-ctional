@@ -1,4 +1,6 @@
-# [negate](./README.md)
+# `negate`
+
+[home](../README.md) &gt; [`negate`](./README.md) &gt; solutions
 
 Because `NaN` is falsy, we can use a simple boolean expression to return `NaN` if the argument is not parsable as a number, and the negated, parsed number if it is. This won't return the function itself when we call it without an argument, but see below.
 

@@ -1,4 +1,6 @@
-# [range](./README.md)
+# `range`
+
+[home](../README.md) &gt; [`range`](./README.md) &gt; solutions
 
 ```js
 const range = (start, stop) => {

@@ -1,4 +1,6 @@
-# [reduce](./README.md)
+# `reduce`
+
+[home](../README.md) &gt; [`reduce`](./README.md) &gt; solutions
 
 ```js
 const reduce = (f, a, [x, ...xs]) => x ? reduce(f, f(a, x), xs) : a

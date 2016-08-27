@@ -1,4 +1,6 @@
-# reduce
+# `reduce`
+
+[home](../README.md) &gt; `reduce`
 
 
 

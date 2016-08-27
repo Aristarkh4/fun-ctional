@@ -1,4 +1,6 @@
-# [split](./README.md)
+# `split`
+
+[home](../README.md) &gt; [`split`](./README.md) &gt; solutions
 
 ```js
 import { drop, indexOf, take } from 'ramda'

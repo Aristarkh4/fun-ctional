@@ -1,4 +1,6 @@
-# slice
+# `slice`
+
+[home](../README.md) &gt; `slice`
 
 
 

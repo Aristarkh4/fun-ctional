@@ -1,4 +1,6 @@
-# [reject](./README.md)
+# `reject`
+
+[home](../README.md) &gt; [`reject`](./README.md) &gt; solutions
 
 ```js
 import { reduce } from 'ramda'

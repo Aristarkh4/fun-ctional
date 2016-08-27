@@ -1,4 +1,6 @@
-# [slice](./README.md)
+# `slice`
+
+[home](../README.md) &gt; [`slice`](./README.md) &gt; solutions
 
 ```js
 import { head, reduce } from 'ramda'

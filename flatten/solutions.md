@@ -1,4 +1,6 @@
-# [flatten](./README.md)
+# `flatten`
+
+[home](../README.md) &gt; [`flatten`](./README.md) &gt; solutions
 
 ```js
 import { isArrayLike } from 'ramda'

@@ -1,4 +1,6 @@
-# [join](./README.md)
+# `join`
+
+[home](../README.md) &gt; [`join`](./README.md) &gt; solutions
 
 ```js
 import { reduce } from 'ramda'

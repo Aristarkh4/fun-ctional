@@ -1,4 +1,6 @@
-# remove
+# `remove`
+
+[home](../README.md) &gt; `remove`
 
 
 

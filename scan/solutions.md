@@ -1,4 +1,6 @@
-# [scan](./README.md)
+# `scan`
+
+[home](../README.md) &gt; [`scan`](./README.md) &gt; solutions
 
 ```js
 import { last, multiply, reduce } from 'ramda'

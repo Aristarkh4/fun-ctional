@@ -1,4 +1,6 @@
-# [memoize](./README.md)
+# `memoize`
+
+[home](../README.md) &gt; [`memoize`](./README.md) &gt; solutions
 
 ```js
 import { has } from 'ramda'

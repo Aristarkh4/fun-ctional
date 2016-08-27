@@ -1,4 +1,6 @@
-# [remove](./README.md)
+# `remove`
+
+[home](../README.md) &gt; [`remove`](./README.md) &gt; solutions
 
 ```js
 import { head, reduce } from 'ramda'

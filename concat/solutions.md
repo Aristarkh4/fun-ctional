@@ -1,4 +1,6 @@
-# [concat](./README.md)
+# `concat`
+
+[home](../README.md) &gt; [`concat`](./README.md) &gt; solutions
 
 ```js
 import { flatten, head, join } from 'ramda'

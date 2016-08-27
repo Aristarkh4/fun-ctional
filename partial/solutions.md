@@ -1,4 +1,6 @@
-# [partial](./README.md)
+# `partial`
+
+[home](../README.md) &gt; [`partial`](./README.md) &gt; solutions
 
 ```js
 import { add } from 'ramda'

@@ -1,4 +1,6 @@
-# [find](./README.md)
+# `find`
+
+[home](../README.md) &gt; [`find`](./README.md) &gt; solutions
 
 ```js
 import { head, isEmpty, reduce } from 'ramda'

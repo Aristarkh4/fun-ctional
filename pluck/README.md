@@ -1,4 +1,6 @@
-# pluck
+# `pluck`
+
+[home](../README.md) &gt; `pluck`
 
 
 

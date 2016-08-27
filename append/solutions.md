@@ -1,4 +1,6 @@
-# [append](./README.md)
+# `append`
+
+[home](../README.md) &gt; [`append`](./README.md) &gt; solutions
 
 ```js
 const append = (v, a) => [...a, v]

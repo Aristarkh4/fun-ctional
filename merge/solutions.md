@@ -1,4 +1,6 @@
-# [merge](./README.md)
+# `merge`
+
+[home](../README.md) &gt; [`merge`](./README.md) &gt; solutions
 
 ```js
 const merge = (...args) => {

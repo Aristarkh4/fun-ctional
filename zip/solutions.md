@@ -1,4 +1,6 @@
-# [zip](./README.md)
+# `zip`
+
+[home](../README.md) &gt; [`zip`](./README.md) &gt; solutions
 
 ```js
 const zip = ([l, ...ls], [r, ...rs]) =>

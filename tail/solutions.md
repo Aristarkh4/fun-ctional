@@ -1,4 +1,6 @@
-# [tail](./README.md)
+# `tail`
+
+[home](../README.md) &gt; [`tail`](./README.md) &gt; solutions
 
 ```js
 const tail = ([_, ...xs]) => xs

@@ -1,4 +1,6 @@
-# [repeat](./README.md)
+# `repeat`
+
+[home](../README.md) &gt; [`repeat`](./README.md) &gt; solutions
 
 ```js
 const repeat = (s, n) => (n < 1) ? [] : [s, ...repeat(s, n - 1)]

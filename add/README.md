@@ -1,4 +1,6 @@
-# add
+# `add`
+
+[home](../README.md) &gt; `add`
 
 Ramda's [`add`](http://ramdajs.com/docs/#add) adds two values together and returns the sum.
 

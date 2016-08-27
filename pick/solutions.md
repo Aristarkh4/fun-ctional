@@ -1,4 +1,6 @@
-# [pick](./README.md)
+# `pick`
+
+[home](../README.md) &gt; [`pick`](./README.md) &gt; solutions
 
 ```js
 const bob = { name: 'Bob', age: 75, eyes: 'blue' }

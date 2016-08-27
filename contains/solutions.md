@@ -1,4 +1,6 @@
-# [contains](./README.md)
+# `contains`
+
+[home](../README.md) &gt; [`contains`](./README.md) &gt; solutions
 
 ```js
 import { reduce } from 'ramda'

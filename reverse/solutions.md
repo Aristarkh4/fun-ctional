@@ -1,4 +1,6 @@
-# [reverse](./README.md)
+# `reverse`
+
+[home](../README.md) &gt; [`reverse`](./README.md) &gt; solutions
 
 ```js
 const reverse = ([x, ...xs]) => x ? [...reverse(xs), x] : []

@@ -1,4 +1,6 @@
-# [drop](./README.md)
+# `drop`
+
+[home](../README.md) &gt; [`drop`](./README.md) &gt; solutions
 
 ```js
 import { reduce } from 'ramda'

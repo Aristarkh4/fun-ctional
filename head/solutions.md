@@ -1,4 +1,6 @@
-# [head](./README.md)
+# `head`
+
+[home](../README.md) &gt; [`head`](./README.md) &gt; solutions
 
 ```js
 const head = ([x]) => x

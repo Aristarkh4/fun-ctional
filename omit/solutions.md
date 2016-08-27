@@ -1,4 +1,6 @@
-# [omit](./README.md)
+# `omit`
+
+[home](../README.md) &gt; [`omit`](./README.md) &gt; solutions
 
 ```js
 import { contains, reduce } from 'ramda'

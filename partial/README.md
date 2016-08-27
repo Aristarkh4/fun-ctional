@@ -1,4 +1,6 @@
-# partial
+# `partial`
+
+[home](../README.md) &gt; `partial`
 
 
 

@@ -1,4 +1,6 @@
-# [curry](./README.md)
+# `curry`
+
+[home](../README.md) &gt; [`curry`](./README.md) &gt; solutions
 
 ```js
 const curryN = (n, f) => {

@@ -1,4 +1,6 @@
-# [compose](./README.md)
+# `compose`
+
+[home](../README.md) &gt; [`compose`](./README.md) &gt; solutions
 
 ```js
 import { head, inc, negate, reduceRight } from 'ramda'

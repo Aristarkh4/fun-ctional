@@ -1,4 +1,6 @@
-# [map](./README.md)
+# `map`
+
+[home](../README.md) &gt; [`map`](./README.md) &gt; solutions
 
 ```js
 const map = (f, [x, ...xs]) => x ? [f(x), ...map(f, xs)] : []

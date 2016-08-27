@@ -1,4 +1,6 @@
-# negate
+# `negate`
+
+[home](../README.md) &gt; `negate`
 
 Ramda's [`negate`](http://ramdajs.com/docs/#negate) does exactly what you'd expect it to do:
 

@@ -1,4 +1,6 @@
-# [add](./README.md)
+# `add`
+
+[home](../README.md) &gt; [`add`](./README.md) &gt; solutions
 
 First, let's make a curriable `add` function a la Ramda. There is probably a simpler way, but this works fine.
 

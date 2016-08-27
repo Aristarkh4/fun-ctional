@@ -1,4 +1,6 @@
-# [last](./README.md)
+# `last`
+
+[home](../README.md) &gt; [`last`](./README.md) &gt; solutions
 
 ```js
 import { isEmpty } from 'ramda'

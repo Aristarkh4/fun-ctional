@@ -1,4 +1,6 @@
-# [pluck](./README.md)
+# `pluck`
+
+[home](../README.md) &gt; [`pluck`](./README.md) &gt; solutions
 
 ```js
 import { contains, reduce } from 'ramda'
